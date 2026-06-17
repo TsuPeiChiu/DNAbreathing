@@ -59,7 +59,7 @@ Both are dependencies of the preprocessing stage — the committed
 
 ## Data
 
-Data is stored in OSF (**DOI: 10.17605/OSF.IO/2UHP7**) and extract so that:
+Data is stored in OSF (**DOI: 10.17605/OSF.IO/UAHBJ**) and extract so that:
 
 ```
 export DNABREATHING_DATA=/path/to/data
