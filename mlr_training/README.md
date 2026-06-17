@@ -42,20 +42,15 @@ pip install -r env/requirements.txt
 
 Requires Python ≥ 3.9.
 
-### External tools (not bundled — install separately)
+### External tools
 
-These tools are invoked by the preprocessing stage and have their own
+These tools are used during the preprocessing stage and have their own
 installation instructions and conda environments.
 
 | Tool | Purpose | Repository |
 |------|---------|------------|
 | `pyDNA_EPBD` | EPBD breathing simulation (generates `pyDNA_EPBD_outputs/`) | https://github.com/lanl/pyDNA_EPBD |
 | `deepDNAshape` | DNA shape prediction (generates `deepdnashape_results/`) | https://github.com/JinsenLi/deepDNAshape |
-
-`deepDNAshape` is invoked via the `deepdnashape` conda env in
-`scripts/run_deepdnashape.sh`. `pyDNA_EPBD` runs under `pydnaepbd_pypy_conda`.
-Both are dependencies of the preprocessing stage — the committed
-`data/preprocessed_data/` CSVs already incorporate their outputs.
 
 ## Data
 
