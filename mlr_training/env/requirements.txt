@@ -1,0 +1,13 @@
+#
+# Note: pyDNA_EPBD (breathing-feature generation) and deepDNAshape (shape-
+# feature prediction) have their own requirements and are NOT listed
+# here. See the Dependencies section in README.md.
+#
+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+
+

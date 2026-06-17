@@ -1,0 +1,42 @@
+Dataset                                               Mean R2   Mean Adj_R2   Mean MAE   |coef| bubbles   |coef| flip
+--------------------------------------------------------------------------------------------------------------------------------------
+C2H2_BCL6B_TGCGGG20NGA_TTTCTAGGAA_10_3                 0.4797        0.4633     0.0519              N/A           N/A
+C2H2_Zfp740_TCAACC20NCG_NCCCCCCCAC_10_4                0.4782        0.4193     0.0497              N/A           N/A
+CENPB_CENPB_TGCTGT20NGTC_TTCGYNNNANGCGGG_15_3          0.5941        0.4992     0.0531              N/A           N/A
+CP2_GRHL1_TGGACA20NCAT_AACCGGTT_14_4                   0.6744        0.4531     0.0359              N/A           N/A
+CUT_ONECUT1_TAGCTC20NTCT_ATCRAT_14_3                   0.4601        0.4306     0.0490              N/A           N/A
+ETS_ELF1_TGGGTA20NGA_GGAA_10_3                         0.5549        0.4184     0.0519              N/A           N/A
+ETS_SPDEF_TCATTG20NCG_GGAT_14_4                        0.8042        0.4962     0.0473              N/A           N/A
+GATA_GATA3_TCATGC20NCG_GATA_12_3                       0.6682        0.5937     0.0459              N/A           N/A
+GCM_GCM2_TGACTC20NTCA_ATGCGGGT_10_4                    0.5346        0.3829     0.0456              N/A           N/A
+HSF_HSF1_TATAGA20NGAG_TTCTAGAA_14_3                    0.4899        0.4780     0.0536              N/A           N/A
+IRF_IRF7_TATCGC20NGCG_RAANCGAAAW_12_3                  0.3841        0.0913     0.0666              N/A           N/A
+MAD_SMAD3_TGGGTA20NGA_TAGACA_12_3                      0.5594        0.5303     0.0408              N/A           N/A
+MEIS_Meis2_TCAAAA20NTA_TGACAG_10_5                     0.5863        0.2840     0.0449              N/A           N/A
+MYB_MYBL2_TGAGTG20NGA_CCGTTN_12_3                      0.6298        0.5449     0.0548              N/A           N/A
+NFAT_NFATC1_TTCGTA20NTGC_TGGAAA_12_4                   0.4977        0.2565     0.0516              N/A           N/A
+NFI_NFIX_TGAGAT20NAGA_TGCCAA_10_4                      0.7485        0.7250     0.0508              N/A           N/A
+PAX_PAX7_TCCAAC20NAAC_TAATYR_12_4                      0.1727       -0.1773     0.0839              N/A           N/A
+POU_POU2F1_TCTTTC20NGA_WAAT_12_4                       0.4252        0.0952     0.0559              N/A           N/A
+POU_POU4F3_TACCGT20NGCC_TAAT_14_3                      0.1923        0.0923     0.0705              N/A           N/A
+PROX_PROX1_TGCAGA20NGA_AAGAC_9_3                       0.4926        0.4266     0.0438              N/A           N/A
+RRM_CPEB1_TAACCC20NCG_ATAAAA_12_3                      0.6225        0.4754     0.0537              N/A           N/A
+RUNX_RUNX3_TCTCCC20NGA_AACCRC_10_3                     0.7142        0.6966     0.0332              N/A           N/A
+SAND_GMEB2_TCGCGC20NGA_ACGT_10_3                       0.4942        0.4826     0.0438              N/A           N/A
+TBX_TBX19_TACTAT40NATC_ANGTGYGA_12_4                   0.4740        0.3988     0.0493              N/A           N/A
+TEA_TEAD3_TATAAG40NAAG_CATTCC_12_4                     0.6703        0.6151     0.0569              N/A           N/A
+bHLH_Bhlhb2_TCAAGG20NGAA_CACGTG_14_4                   0.6851        0.6584     0.0485              N/A           N/A
+bHLH_MAX_TGACCT20NGA_CACGTG_12_3                       0.7117        0.6451     0.0556              N/A           N/A
+bHLH_TCF3_TACCCG20NCCC_CACCTG_12_3                     0.6627        0.6266     0.0636              N/A           N/A
+bHLH_USF1_TGACGA20NGCA_CACGTG_14_4                     0.6653        0.6118     0.0569              N/A           N/A
+bZIP_ATF4_TGGAAT20NGA_TGAYGC_12_3                      0.6387        0.4122     0.0509              N/A           N/A
+bZIP_XBP1_TGTTCA20NGA_TGACGT_12_4                      0.2322       -0.0890     0.0602              N/A           N/A
+forkhead_FOXB1_TCTGGT20NGGG_GTAAAYA_9_3                0.2741        0.2074     0.0527              N/A           N/A
+forkhead_Foxg1_TATCTG20NTCG_RTAAAYA_9_3                0.5682        0.5421     0.0490              N/A           N/A
+homeodomain_ALX3_TGTAAA20NAAG_TAAT_12_4                0.5375        0.3138     0.0577              N/A           N/A
+homeodomain_Hoxd9_TCCTAA20NCG_GTAAAN_10_3              0.5333        0.5184     0.0418              N/A           N/A
+homeodomain_Vsx1_TGCAGA20NCG_TAAT_10_4                 0.7376        0.7290     0.0353              N/A           N/A
+nuclearreceptor_AR_TGCTCG20NGA_ACANNNTGT_9_3           0.4048        0.3426     0.0519              N/A           N/A
+nuclearreceptor_THRA_TCGGCC40NCGT_AGGTCA_12_3          0.3806        0.1629     0.0613              N/A           N/A
+--------------------------------------------------------------------------------------------------------------------------------------
+Average (38 datasets)                                                      0.5377        0.4172     0.0518
