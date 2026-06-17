@@ -3,8 +3,8 @@
 ## Overview
 
 This directory contains the multiple linear regression (MLR) training pipeline
-to evaluate whether DNA breathing features (bubbles and flip) improves TF 
-binding-affinity prediction beyond information encoded by 1mer sequence and
+to evaluate whether DNA breathing features (bubbles and flip) improve TF 
+binding score prediction beyond information already encoded by 1mer sequence and
 DNA shape features. MLR models (10-fold cross-validation) are trained for each TF 
 on HT-SELEX data using different combinations of feature sets (1mer, breathing,
 Deep DNAshape), and cross-validated R² values are compared across 38 TF datasets.
