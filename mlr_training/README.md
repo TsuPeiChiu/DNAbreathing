@@ -49,8 +49,8 @@ installation instructions and conda environments.
 
 | Tool | Purpose | Repository |
 |------|---------|------------|
-| `pyDNA_EPBD` | EPBD breathing simulation (generates `pyDNA_EPBD_outputs/`) | https://github.com/lanl/pyDNA_EPBD |
-| `deepDNAshape` | DNA shape prediction (generates `deepdnashape_results/`) | https://github.com/JinsenLi/deepDNAshape |
+| `pyDNA_EPBD` | EPBD breathing simulation | https://github.com/lanl/pyDNA_EPBD |
+| `deepDNAshape` | DNA shape prediction | https://github.com/JinsenLi/deepDNAshape |
 
 ## Data
 
