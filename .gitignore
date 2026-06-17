@@ -1,2 +1,10 @@
 data/
 
+# MLR-training: data and models lives on OSF
+mlr_training/data/
+mlr_training/models
+*.pkl.gz
+*.tar.gz
+__pycache__/
+*.pyc
+
